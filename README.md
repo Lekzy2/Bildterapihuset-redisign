@@ -21,6 +21,24 @@ Din webbplats ska även testas och detta ska dokumenteras, både med validator o
 
 ## Planering
 
+#
+- Titta på figma och skapa en planering
+
+### Startsida
+- Skapa containers som ska funka som jag vill
+
+- Färger
+
+- lägga in bilder och påbörja på en startsida utifrån figma skissen
+
+### Bokning
+- Skapa containers som ska funka som jag vill
+
+- Färger
+
+- lägga in bilder och påbörja på en startsida utifrån figma skissen
+#
+
 Utgå från ditt skiss (Figma) och idéarbete. Du ska bygga på detta för att skapa din färdiga webbplats.
 Om du inte har det skapa dokument där typsnitt, färger och annat finns tillgängligt.
 Om du behöver ändra på dina skisser eller din planering så kan du självklart göra det, men skiss-materialet är din grund och det ska användas. För de högre betygen är det då även viktigt att du dokumenterar detta och motiverar dina val.
