@@ -4,28 +4,44 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
+    <title>Bildterapihuset</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <header>
-        <div class="logotyp">
-            <img src="img/bildterapihuset.png"  alt="logotyp">
+
+    <nav class="navbar">
+        <a class="brand" href="#">logo</a>
+        <ul class="nav">
+            <li class="nav-item">
+                <a class="nav-link" href="index.html">Hem</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link active" href="#">Navigation</a>
+            </li>
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#">Hamburgar</a>
+                <ul class="nav dropdown-content">
+                    <li class="dropdown-item">
+                        <a class="nav-link" href="#">Link</a>
+                    </li>
+                    <li class="dropdown-item">
+                        <a class="nav-link" href="#">Link</a>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+    </nav>
+
+
+    <div class="flex-container">
+        <div class="flex-container__item">
+            <img src="img/heart.png">
+           <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Adipisci earum voluptatem, beatae, dolorem, harum deserunt in natus tempore maxime debitis vitae. Distinctio, autem facilis. Voluptas distinctio corporis facilis aspernatur explicabo.</p>
         </div>
-            <div class="header">
-                <h1>bth</h1>
-            </div>
-        <div class="hamburgar">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Hamburger_icon.svg/1024px-Hamburger_icon.svg.png"  alt="hamburger">
-        </div>
-    </header>
-<div class="boxt1">
-    <h1>hello</h1>
-</div>
-
-
-
+    </div>
     
+
+  
     <script src="js/main.js"></script>
 </body>
 </html>
